@@ -4,7 +4,7 @@ This is a python module for discord bot makers, this module helps you in hostine
 <!-- ![DcWebserver Logo](https://images-ext-1.discordapp.net/external/Ec1UJ1VZQdI1CeSPHZNnwxxMzCjtTu7msgkca7NDuGA/https/cdn.discordapp.com/avatars/933987789719109642/59734422bfd413c193671c6080da08da.webp)
  -->
  
- <img src="https://cdn.discordapp.com/avatars/933987789719109642/59734422bfd413c193671c6080da08da.png" alt="DcWebserver Logo" width="200" align="center"/>
+ <img src="https://cdn.discordapp.com/avatars/933987789719109642/59734422bfd413c193671c6080da08da.png" alt="DcWebserver Logo" width="250"/>
 
 ### Fast, feature-rich language support for Node.js
 
