@@ -1,6 +1,6 @@
 {
     "name": "DcWebserver",
     "version": "0.0.1",
-    "description": "This is a python module for discord bot makers, this module helps you in hostineg your bot on uptimer services",
+    "description": "This is a node module for discord bot makers, this module helps you in hostineg your bot on uptimer services",
     "email": "thewinds3150@gmail.com"
 }
