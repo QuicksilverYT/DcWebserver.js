@@ -1,7 +1,7 @@
 # DcWebserver
 This is a python module for discord bot makers, this module helps you in hostineg your bot on uptimer services ,as it opens a window and then all you have to do is to copy the address of the window and host it on a uptimer service 
 
-<img src=https://media.discordapp.net/attachments/947749178979807243/966665806580707348/pngwing.com_1.png alt ="Dc Webserver Logo" style="max-width: 10%;">
+![DcWebserver Logo](https://media.discordapp.net/attachments/947749178979807243/966665806580707348/pngwing.com_1.png)
 
 ### Fast, feature-rich language support for Node.js
 
