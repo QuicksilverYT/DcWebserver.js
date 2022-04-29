@@ -29,7 +29,7 @@ DcWebserver provides some awesome features for Node.js, including:
 
 # Using DcWebserver
 - First make sure you have downloaded the module
-- Import the module using `var DcWebserver = require("DcWebserver"); `
+- Import the module using `const DcWebserver = require('DcWebserver'); `
 
 # Dependecies 
 
