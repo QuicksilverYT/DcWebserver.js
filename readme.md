@@ -28,14 +28,15 @@ DcWebserver provides some awesome features for Node.js, including:
 
 
 # Using DcWebserver
-To use this module after installing You have to just include `Dc_Webserver.keepAlive()` after the code and before making the discord client run your bot token
+- First make sure you have downloaded the module
+- Import the module using `var DcWebserver = require("DcWebserver"); `
 
 # Dependecies 
 
 This module depends on 3 other modules namely 
-<br> 1) Flask
-<br> 2) Threading
-<br> 3) Express
+<!-- <br> 1) Flask
+<br> 2) Threading -->
+<br> 1) Express
 
 Installing
 ----------
