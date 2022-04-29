@@ -33,10 +33,10 @@ DcWebserver provides some awesome features for Node.js, including:
 
 # Dependecies 
 
-This module depends on 3 other modules namely 
+This module depends on 1 other module namely 
 <!-- <br> 1) Flask
 <br> 2) Threading -->
-<br> 1) Express
+<!-- <br> 1)-->1) Express
 
 Installing
 ----------
