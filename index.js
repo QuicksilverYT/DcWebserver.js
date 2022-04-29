@@ -1,13 +1,14 @@
 const express = require('express');
 const server = express();
+require("dotenv").config();
 
-const username = "the_winds"; 
-const api_key = "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"; 
+const username = process.env.USERNAME; 
+const api_key = process.env.API_KEY;; 
 
 server.all('/', (req, res)=>{
   res.send('Your bot is alive')
 })
 function KeepAlive(){
-   server.listen(3000, ()=>console.log("Server is ready!"))
+   server.listen(process.env.PORT, ()=>console.log("Server is ready!"))
 }
 module.exports = KeepAlive;

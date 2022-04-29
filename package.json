@@ -1,6 +1,28 @@
 {
-    "name": "DcWebserver",
-    "version": "0.0.1",
-    "description": "This is a node module for discord bot makers, this module helps you in hostineg your bot on uptimer services",
-    "email": "thewinds3150@gmail.com"
+  "name": "dcwebserver",
+  "version": "0.0.1",
+  "description": "This is a node module for discord bot makers, this module helps you in hostineg your bot on uptimer services",
+  "email": "thewinds3150@gmail.com",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuicksilverYT/DcWebserver.js.git"
+  },
+  "keywords": [
+    "webserver",
+    "discord"
+  ],
+  "author": "#",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuicksilverYT/DcWebserver.js/issues"
+  },
+  "homepage": "https://github.com/QuicksilverYT/DcWebserver.js#readme"
 }
