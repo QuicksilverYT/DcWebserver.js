@@ -45,7 +45,7 @@ Install and update using npm:
 
 
 
-    $ npm install DcWebserver
+    $ npm i dcwebserver
 
 # Developer 
 Made By [itzQuicksilver](https://github.com/QuicksilverYT) and [mezotv](https://github.com/mezotv) 
